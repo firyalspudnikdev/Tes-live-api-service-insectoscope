@@ -1,0 +1,11 @@
+id,length,name,sample_rate,record_datetime,sound_type,species,gender,fed,plurality,age,method,mic_type,device_type,country,district,province,place,location_type
+53,463.456,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+57,170.249,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+61,104.041,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+70,226.999,CDC_Ae-aegypti_labelled_800.wav,8000,08-09-16 8:00,mosquito,ae aegypti,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+310,182.855,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+311,47.542,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+312,124.341,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+313,241.369,CDC_An-freeborni_labelled_800.wav,8000,08-09-16 8:00,mosquito,an freeborni,,,Single,,,phone,Alcatel 4009X,USA,Georgia,Atlanta,"CDC insect cultures, Atlanta",culture
+592,19.156.463,R4_cleaned recording_12-10-17.wav,44100,12-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup
+593,12.062.767,R4_cleaned recording_12-10-17.wav,44100,12-10-17 0:00,mosquito,culex quinquefasciatus,,,,,,Telinga,,UK,Oxfordshire,,Oxford Zoology,cup

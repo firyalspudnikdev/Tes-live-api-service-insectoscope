@@ -1,0 +1,26 @@
+Species Name,Disease,Danger Level
+ae aegypti,"Dengue, Zika, Chikungunya",High
+ae albopictus,"Dengue, Zika, Chikungunya",High
+an albimanus,Malaria,High
+an arabiensis,Malaria,High
+an atroparvus,Malaria,High
+an coluzzii,Malaria,High
+an coustani,Malaria,High
+an dirus,Malaria,High
+an farauti,Malaria,High
+an funestus,Malaria,High
+an gambiae,Malaria,High
+an harrisoni,Malaria,High
+an maculatus,Malaria,High
+an merus,Malaria,High
+an minimus,Malaria,High
+an pharoensis,Malaria,High
+an quadriannulatus,Malaria,High
+an rivulorum,Malaria,High
+an sinensis,Malaria,High
+an stephensi,Malaria,High
+culex pipiens complex,"West Nile Virus, Filariasis",High
+culex quinquefasciatus,"West Nile Virus, Filariasis",High
+culex tarsalis,"West Nile Virus, Filariasis",High
+ma africanus,Filariasis,High
+ma uniformis,Filariasis,High
