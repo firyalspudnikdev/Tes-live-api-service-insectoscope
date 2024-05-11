@@ -103,6 +103,7 @@ GitPython @ file:///C:/b/abs_e1lwow9h41/croot/gitpython_1696937027832/work
 gmpy2 @ file:///C:/ci_311/gmpy2_1677743390134/work
 greenlet @ file:///C:/b/abs_a6c75ie0bc/croot/greenlet_1702060012174/work
 grpcio==1.62.1
+gunicorn==22.0.0
 h5py @ file:///C:/b/abs_17fav01gwy/croot/h5py_1691589733413/work
 HeapDict @ file:///Users/ktietz/demo/mc3/conda-bld/heapdict_1630598515714/work
 holoviews @ file:///C:/b/abs_704uucojt7/croot/holoviews_1707836477070/work
